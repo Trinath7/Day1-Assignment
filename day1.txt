@@ -1,0 +1,4 @@
+COMPILER--->compiler  converts all the lines of high level language [HLL] into machine level language[MLL] at ones
+i.e all the lines of the high level language programe conveted into machine level language at a time
+INTERPRETER--->interpreter does the same as compiler but the difference is the line by line execution 
+i.e line by line convertion of High level language into machine level language 
